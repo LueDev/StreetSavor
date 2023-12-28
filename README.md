@@ -18,7 +18,7 @@ The cross-platform mobile application Street Savors is a reliable intermediary b
 ### User Stories
 1. Consumer Side:
    The ideal consumer is one who enjoys the quick-paced and immersive city lifestyle without the added caveat of expensive indoor dining. This software also tailors to a much younger population, specifically our Gen Z and Millennial demographics, who, as numerous studies continue to show, are responsible for this paradigm shift in consumer marketing. As a customer, a client is given a comprehensive assortment of available mobile food trucks and dispensaries, and upon selecting, is prompted with the quickest route to reach its location with the added feature of in-app purchases and custom signaling, alerting the nearby truck of a person currently navigating in progress.
-2. Veneor Side:
+2. Vendor Side:
    As a vendor, the patron is provided with a custom interactive user interface detailing the various locations, hub spots, where customers are positioned. The software also provides insight into the most optimal area to remain stationed, ensuring a sufficient consumer base. The platform can then create intuitive, customizable in-app reports, summarizing a business's gross revenue stream with any necessary labor costs. 
 
 ## System Design
